@@ -20,7 +20,7 @@ export default function Home() {
         onUpload={(result: UploadResult) => {
           setImageId(result.info.public_id);
         }}
-        uploadPreset="w1qd942d"
+        uploadPreset="bewayxg7"
       />
 
       {imageId && (
